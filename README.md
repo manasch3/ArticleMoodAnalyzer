@@ -8,6 +8,7 @@ Article Mood Analyzer is a Python program that analyzes the sentiment of article
 > 💡 Analyzes Sentiment of both the full text and the summary.
 > 📊 Polarity Scores with intuitive feedback using emojis: Negative, Neutral, Positive.
 > 💻 Interactive CLI to input URLs and receive real-time sentiment analysis.
+
 📚 Libraries Used:
 
 > TextBlob: For sentiment analysis.
