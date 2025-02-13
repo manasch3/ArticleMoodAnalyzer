@@ -41,17 +41,15 @@ The Article Sentiment Analyzer is a Python-based project that extracts and analy
 
 📜 Example Output
 
--  User enters the URL of an article.
-  
-   The program processes it and returns the sentiment results:
+🔎 **User enters the URL of an article.**  
 
-   Sentiment Analysis: Complete Text
+The program processes it and returns the sentiment results:  
 
-   Score: 0.45 - Positive 🙂
+🎉 **Sentiment Analysis: Complete Text**  
+🔥 **Score:** 0.45 - **Positive 🙂**  
 
-   Sentiment Analysis: Summarized Text
-
-   Score: 0.30 - Positive 🙂
+🎉 **Sentiment Analysis: Summarized Text**  
+🔥 **Score:** 0.30 - **Positive 🙂**  
 
 🤝 Contributing
 
